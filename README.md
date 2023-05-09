@@ -14,6 +14,18 @@
 6. Clean UI
 
 ## Screenshots
+![](assests/load.png)
+![](assests/signin.png)
+![](assests/dashboard.png)
+![](assests/schedule.png)
+![](assests/class1.png)
+![](assests/class2.png)
+![](assests/class3.png)
+![](assests/class4.png)
+![](assests/resource1.png)
+![](assests/resource2.png)
+![](assests/user1.png)
+![](assests/user2.png)
 
 ## Notice
 This project is NOT open source. But you can [download](https://drive.google.com/drive/folders/1u2e6JDmyRrqqqXQX53Worn2os634OvOR?usp=sharing) and try.
