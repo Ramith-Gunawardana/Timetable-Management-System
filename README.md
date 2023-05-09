@@ -10,7 +10,8 @@
 2. User Access Control - Admin, Faculty Member, Staff
 3. Password encryption - SHA256
 4. Save schedules and resources as PDFs
-5. Clean UI
+5. Backup database
+6. Clean UI
 
 ## Screenshots
 ![Screenshot 2023-05-09 231204](https://github.com/Ramith-Gunawardana/timetable-management-system/assets/115421368/1687c165-da84-4a66-8d24-d1f329931270)
