@@ -42,5 +42,5 @@
 ![Users 09_05_2023 11_22_20 PM](https://github.com/Ramith-Gunawardana/timetable-management-system/assets/115421368/94cadc51-2b9c-497c-ac64-47ab8585f16e)
 
 ## Notice
-This project is NOT open source. But you can download and try. (Admin,123)
+This project is NOT open source. But you can download and try.
 <br> ^_^
