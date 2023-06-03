@@ -2,7 +2,7 @@
 > © Ramith Gunawardana, 2023. All Rights Reserved.
 
 **GUI - Java SWING <br> Database - SQLite**
-
+A desktop application.
 <sup> This is a project done for an assignment in uni. </sup>
 
 ## Features
