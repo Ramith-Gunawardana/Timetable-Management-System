@@ -1,4 +1,4 @@
-# timetable-management-system
+# Timetable-Management-System
 > © Ramith Gunawardana, 2023. All Rights Reserved.
 
 A desktop application.
@@ -6,6 +6,7 @@ A desktop application.
 **GUI - Java SWING <br> Database - SQLite**
 
 <sup> This is a project done for an assignment in uni. </sup>
+<br>Download link at the bottom!
 
 ## Features
 1. 3 Modules - Schedules, Classrooms and Subjects, Resources
@@ -31,6 +32,6 @@ A desktop application.
 ![](assests/user1.png)
 ![](assests/user2.png)
 
-## Notice
-This project is NOT open source. But you can [download](https://drive.google.com/drive/folders/1u2e6JDmyRrqqqXQX53Worn2os634OvOR?usp=sharing) and try.
+## Download
+This project is now open source. Also you can [download](https://drive.google.com/drive/folders/1u2e6JDmyRrqqqXQX53Worn2os634OvOR?usp=sharing) .exe file.
 <br> ^_^
